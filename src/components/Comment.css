@@ -1,0 +1,8 @@
+.Comment {
+    width: 300px;
+    border:1px solid black
+}
+.Comment-text {
+    font-family: monospace;
+    font-size: 15px;
+}
